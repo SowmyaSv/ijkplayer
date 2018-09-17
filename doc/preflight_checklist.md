@@ -2,7 +2,7 @@ ChangeLog
 -----------------------
 * Update NEWS.md
 * Update README.md
-* Commit and push
+
 
 FFmpeg
 -----------------------
